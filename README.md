@@ -7,8 +7,8 @@ O objetivo deste GitHub é compartilhar os projetos que irei realizando ao longo
 ##
 
 <div>
-  <a href="https://github.com/danieluan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danieluan&show_icons=true&theme=react"/>
+  <a href="https://github.com/Danieluan">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danieluan&show_icons=true&theme=react"/>
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieluan&layout=compact&theme=react"/> -->
 </div>
 
