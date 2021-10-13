@@ -23,8 +23,8 @@ Estatísticas |  Linguagens
 
 ### - 😄 Contato e Redes :
 
-<div style="display: inline_block" target="_blank">
-    <a href="mailto:danielluanlourencol@gmail.com">
+<div style="display: inline_block" >
+    <a href="mailto:danielluanlourencol@gmail.com" target="_blank">
     <img align="center" alt="Daniel-Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
     <a href="https://t.me/danluan0800" target="_blank">
