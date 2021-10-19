@@ -7,7 +7,7 @@ O objetivo deste GitHub é compartilhar os projetos que irei realizando ao longo
 ##
 Estatísticas |  Linguagens
 :-:|:-:
-<img src="https://github-readme-stats.vercel.app/api?username=DanieLuan&count_private=true&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true"/>  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanieLuan&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=Danieluan&count_private=true&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true"/>  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danieluan&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
     
