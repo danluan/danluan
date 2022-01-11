@@ -36,9 +36,6 @@ Estatísticas |  Linguagens
     <a href="https://www.linkedin.com/in/daniel-luan-lourenço-2804a0218/" target="_blank">
         <img align="center" alt="Daniel-Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    <a href="https://twitter.com/danluan0800" target="_blank">
-        <img align="center" alt="Daniel-Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-    </a>
     <a href="https://www.instagram.com/danluan080/" target="_blank">
         <img align="center" alt="Daniel-Twitter" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
