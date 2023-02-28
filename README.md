@@ -1,9 +1,10 @@
 ### Opa, bem-vindo(a) ao meu GitHub 👋! 
 
-Sou estudante do curso de Bacharelado em Tecnologia da Informação na UFRN.
-Também sou técnico em Mecatrônica pelo IFRN.
+Sou estudante do curso de **Bacharelado em Tecnologia da Informação na UFRN**.
 
-O objetivo deste GitHub é salvar/compartilhar os projetos que for desenvolvendo, tanto para a faculdade quanto projetos e estudos pessoais.
+Atualmente sou **Estagiário de TI** na CDA Distribuidora.
+
+O objetivo deste GitHub é salvar/compartilhar os projetos que eu for desenvolvendo, tanto para a faculdade quanto projetos e estudos pessoais.
 
 ##
 Estatísticas |  Linguagens
@@ -22,6 +23,7 @@ Estatísticas |  Linguagens
         <img alt="Daniel-HTML" align="center" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
         <img alt="Daniel-CSS" align="center" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
         <img alt="Daniel-Js" align="center" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+        <img alt="Daniel-ReactJS" align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
         <img alt="Daniel-Python" align="center" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
         <img alt="Daniel-C" align="center" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
         <img alt="Daniel-C++" align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">   
