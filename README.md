@@ -1,23 +1,25 @@
-### Opa, bem-vindo(a) ao meu GitHub 👋! 
+# Opa, bem-vindo(a) ao meu GitHub! ;)
 
-Sou estudante do curso de **Bacharelado em Tecnologia da Informação na UFRN**.
-
-Atualmente sou **Estagiário de TI** na CDA Distribuidora.
-
-O objetivo deste GitHub é salvar/compartilhar os projetos que eu for desenvolvendo, tanto para a faculdade quanto projetos e estudos pessoais.
+<a href="README_en.md">
+English
+</a>
+|
+<a href="README.md">
+Português
+</a>
 
 ##
-Estatísticas |  Linguagens
+
+Meu nome é Daniel, sou estudante do Bacharelado de Tecnologia da Informação na UFRN e Estagiário de TI na CDA Distribuidora. Estudo Desenvolvimento Web com o objetivo de um dia ser minha profissão. Abaixo você terá as tecnologias que já possuo conhecimento e estou estudando no momento. :D
+
+Estatísticas | Linguagens
 :-:|:-:
 <img src="https://github-readme-stats.vercel.app/api?username=Danieluan&count_private=true&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true"/>  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danieluan&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-<p align="center">
-    
-</p>
-
-##
   
-### - 📚 Conhecimentos:
+## 💻 Stack:
+
+Atualmente estou estudando:
+
 <div aling = "center">
     <div style = "display: inline_block"><br>
         <img alt="Daniel-HTML" align="center" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -30,21 +32,19 @@ Estatísticas |  Linguagens
         <img alt="Daniel-C++" align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
     </div>
 </div>
- 
 
+## 📞 Contato:
 
-##
-
-### - 📞 Contato e Redes:
 
 <div style="display: inline_block" >
+<a href="https://www.linkedin.com/in/daniel-luan-lourenço-2804a0218/" target="_blank">
+        <img align="center" alt="Daniel-Linkedin" src="https://img.shields.io/badge//danluan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
     <a href="mailto:danielluanlourencol@gmail.com" target="_blank">
-    <img align="center" alt="Daniel-Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img align="center" alt="Daniel-Email" src="https://img.shields.io/badge/danielluanlourencol@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
     <a href="https://discordapp.com/users/284738631174848513" target="_blank">
-        <img align="center" alt="Daniel-Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+        <img align="center" alt="Daniel-Discord" src="https://img.shields.io/badge/@Danluan0800-7289DA?style=for-the-badge&logo=discord&logoColor=white">
     </a>
-    <a href="https://www.linkedin.com/in/daniel-luan-lourenço-2804a0218/" target="_blank">
-        <img align="center" alt="Daniel-Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
+    
 </div>
