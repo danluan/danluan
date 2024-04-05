@@ -18,8 +18,6 @@ Estatísticas | Linguagens
   
 ## 💻 Stack:
 
-Atualmente estou estudando:
-
 <div aling = "center">
     <div style = "display: inline_block"><br>
         <img alt="Daniel-HTML" align="center" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
