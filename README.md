@@ -10,7 +10,9 @@ Português
 
 ##
 
-Meu nome é Daniel, sou estudante do Bacharelado de Tecnologia da Informação na UFRN e Estagiário de TI na CDA Distribuidora. Estudo Desenvolvimento Web com o objetivo de um dia ser minha profissão. Abaixo você terá as tecnologias que já possuo conhecimento e estou estudando no momento. :D
+Estudante no curso de Bacharelado de Tecnologia da Informação e Técnico em Mecatrônica, com paixão por tecnologias desde jovem. Tenho foco em desenvolvimento web e um interesse profundo em compreender o funcionamento essencial das tecnologias.
+
+Atualmente estou focado em Front-end e Back-end, porém também estudo Design e Aprendizado de Máquina.
 
 Estatísticas | Linguagens
 :-:|:-:
@@ -35,7 +37,7 @@ Estatísticas | Linguagens
 
 
 <div style="display: inline_block" >
-<a href="https://www.linkedin.com/in/daniel-luan-lourenço-2804a0218/" target="_blank">
+<a href="https://www.linkedin.com/in/danluan/" target="_blank">
         <img align="center" alt="Daniel-Linkedin" src="https://img.shields.io/badge//danluan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     <a href="mailto:danielluanlourencol@gmail.com" target="_blank">
