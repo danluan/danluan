@@ -35,16 +35,12 @@ Estatísticas | Linguagens
 
 ## 📞 Contato:
 
-
 <div style="display: inline_block" >
 <a href="https://www.linkedin.com/in/danluan/" target="_blank">
         <img align="center" alt="Daniel-Linkedin" src="https://img.shields.io/badge//danluan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     <a href="mailto:danielluanlourencol@gmail.com" target="_blank">
     <img align="center" alt="Daniel-Email" src="https://img.shields.io/badge/danielluanlourencol@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
-    <a href="https://discordapp.com/users/284738631174848513" target="_blank">
-        <img align="center" alt="Daniel-Discord" src="https://img.shields.io/badge/@Danluan0800-7289DA?style=for-the-badge&logo=discord&logoColor=white">
     </a>
     
 </div>
