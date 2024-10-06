@@ -8,7 +8,7 @@ English
 Português
 </a>
 
-## Sobre mim
+# Sobre mim
 
 Estudante no curso de Bacharelado de Tecnologia da Informação e Técnico em Mecatrônica, com paixão por tecnologias desde jovem. Tenho foco em desenvolvimento web e um interesse profundo em compreender o funcionamento essencial das tecnologias.
 
