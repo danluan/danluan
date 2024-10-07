@@ -5,8 +5,11 @@ English
 </a>
 |
 <a href="README.md">
-Português
+        Português
 </a>
+<br><br>
+        
+[![](https://visitcount.itsvg.in/api?id=danluan&icon=2&color=0)](https://visitcount.itsvg.in)
 
 # Sobre mim
 
@@ -24,7 +27,6 @@ Atualmente estou focado em desenvolvimento web Full Stack, porém também estudo
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=danluan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=jupyter%20notebook&langs_count=8)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=danluan&icon=2&color=0)](https://visitcount.itsvg.in)
 
 ## 📞 Contato:
 
